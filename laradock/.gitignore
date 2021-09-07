@@ -1,0 +1,9 @@
+.idea
+/logs
+
+/nginx/ssl/*.crt
+/nginx/ssl/*.key
+/nginx/ssl/*.csr
+/php-worker
+
+.DS_Store
